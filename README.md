@@ -1,2 +1,2 @@
 # js-learener
-A cos e repo for Javascript
+A code repo for Javascript
